@@ -1,2 +1,2 @@
-# today-i-saw-journal-for-android
+# Today I Saw... Journal Application for Android
 Journal app for Android (in progress)
